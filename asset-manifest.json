@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio-master/static/css/main.54633678.css",
-    "main.js": "/Portfolio-master/static/js/main.53505629.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
-    "static/media/NeuroNote.webp": "/Portfolio-master/static/media/NeuroNote.d2d326a21fbbc981dbb3.webp",
-    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Ahed Memas-Resume.pdf": "/Portfolio-master/static/media/Ahed Memas-Resume.43b3bc13951f49385093.pdf",
-    "static/media/FaceRecognition.jpeg": "/Portfolio-master/static/media/FaceRecognition.3ff71cdf16292c913b69.jpeg",
-    "static/media/WiFi.jpeg": "/Portfolio-master/static/media/WiFi.9a7d2e898d53521b25c7.jpeg",
-    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/SkillSwipe.jpeg": "/Portfolio-master/static/media/SkillSwipe.995ade361a4e803d2377.jpeg",
-    "static/media/Awaazo.jpeg": "/Portfolio-master/static/media/Awaazo.4efce687d23435f7c4a5.jpeg",
-    "static/media/Ecommerce.jpeg": "/Portfolio-master/static/media/Ecommerce.3604fe15eb8bf2af18a6.jpeg",
-    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Portfolio-master/index.html",
-    "main.54633678.css.map": "/Portfolio-master/static/css/main.54633678.css.map",
-    "main.53505629.js.map": "/Portfolio-master/static/js/main.53505629.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio-Master/static/css/main.c25a7374.css",
+    "main.js": "/Portfolio-Master/static/js/main.5ccc41c8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-Master/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-Master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/NeuroNote.webp": "/Portfolio-Master/static/media/NeuroNote.d2d326a21fbbc981dbb3.webp",
+    "static/media/home-main.svg": "/Portfolio-Master/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio-Master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Ahed Memas-Resume.pdf": "/Portfolio-Master/static/media/Ahed Memas-Resume.43b3bc13951f49385093.pdf",
+    "static/media/FaceRecognition.jpeg": "/Portfolio-Master/static/media/FaceRecognition.3ff71cdf16292c913b69.jpeg",
+    "static/media/WiFi.jpeg": "/Portfolio-Master/static/media/WiFi.9a7d2e898d53521b25c7.jpeg",
+    "static/media/home-bg.jpg": "/Portfolio-Master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/SkillSwipe.jpeg": "/Portfolio-Master/static/media/SkillSwipe.995ade361a4e803d2377.jpeg",
+    "static/media/Awaazo.jpeg": "/Portfolio-Master/static/media/Awaazo.4efce687d23435f7c4a5.jpeg",
+    "static/media/Ecommerce.jpeg": "/Portfolio-Master/static/media/Ecommerce.3604fe15eb8bf2af18a6.jpeg",
+    "static/media/avatar.svg": "/Portfolio-Master/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio-Master/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio-Master/index.html",
+    "main.c25a7374.css.map": "/Portfolio-Master/static/css/main.c25a7374.css.map",
+    "main.5ccc41c8.js.map": "/Portfolio-Master/static/js/main.5ccc41c8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-Master/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-Master/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54633678.css",
-    "static/js/main.53505629.js"
+    "static/css/main.c25a7374.css",
+    "static/js/main.5ccc41c8.js"
   ]
 }
