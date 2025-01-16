@@ -9,6 +9,8 @@ import {
 import { SiGmail } from "react-icons/si";
 import { FaLinkedinIn } from "react-icons/fa";
 
+
+
 function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
