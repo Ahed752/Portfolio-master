@@ -35,7 +35,7 @@ function Projects() {
                 </ul>
               }
               ghLink="https://github.com/awaazo/awaazo"
-              demoLink="https://chatify-49.web.app/"
+
             />
           </Col>
 
@@ -53,8 +53,8 @@ function Projects() {
                   
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/soumyajit4419/Bits-0f-https://github.com/rogersi9/NeuroNote"
+              
             />
           </Col>
 
@@ -71,8 +71,8 @@ function Projects() {
                   <li>Implemented a machine learning algorithm to predict the device movement.</li>
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/Ahed752/WifiLocation-SOEN-321"
+              
             />
           </Col>
 
