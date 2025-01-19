@@ -52,7 +52,7 @@ function Projects() {
                   
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/Bits-0f-https://github.com/rogersi9/NeuroNote"
+              ghLink="https://github.com/rogersi9/NeuroNote"
               
             />
           </Col>
@@ -104,7 +104,6 @@ function Projects() {
                 </ul>
               }
               ghLink="https://github.com/raccoonrick/SOEN341"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
