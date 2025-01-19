@@ -35,7 +35,6 @@ function Projects() {
                 </ul>
               }
               ghLink="https://github.com/awaazo/awaazo"
-
             />
           </Col>
 
@@ -87,8 +86,7 @@ function Projects() {
                   <li>Implemented search algorithms to match users with job postings based on their skills and preferences using Python and Django.</li>
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/Marc-Eid/SkillSwipe"
             />
           </Col>
 
@@ -105,7 +103,7 @@ function Projects() {
                   <li>Utilised JavaScript and React to create dynamic, user-friendly single-page applications.</li>
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/raccoonrick/SOEN341"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -122,7 +120,7 @@ function Projects() {
                   <li>Used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person..</li>
                 </ul>
               }
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/Ahed752/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
